@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Chad-007</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400">
+  <img src="https://via.placeholder.com/400x200.png?text=Welcome+to+My+Profile" alt="Welcome Banner" width="400">
 </p>
 
 ---
@@ -65,7 +65,7 @@
   <a href="https://github.com/Chad-007" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/chad-007/" target="_blank">
+  <a href="https://www.linkedin.com/in/alan-sebastian-081596257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white">
   </a>
 </p>
