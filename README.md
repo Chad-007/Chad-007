@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Chad-007</h1>
 <p align="center">
-  <img src="https://via.placeholder.com/400x200.png?text=Welcome+to+My+Profile" alt="Welcome Banner" width="400">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;AI+Model+Finetuner;DevOps+Enthusiast" alt="Typing Animation">
 </p>
 
 ---
@@ -40,22 +40,6 @@
   <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=flat-square&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white">
-</p>
-
----
-
-### 🚀 What I Do
-- Build modern web apps using **React** and **React Native**.
-- Fine-tune **AI models** for machine learning and deep learning tasks.
-- Utilize **Supabase** and **Firebase** for backend database solutions.
-- Implement DevOps pipelines with **Jenkins**, **Docker**, and **GitLab CI/CD**.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chad-007&show_icons=true&theme=github_dark" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chad-007&layout=compact&theme=github_dark" alt="Top Languages" width="400">
 </p>
 
 ---
